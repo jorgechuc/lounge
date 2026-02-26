@@ -1,0 +1,60 @@
+body {
+    font-size: small;
+    font-family: Verdana, Helvetiva, Arial, sans-serif;
+    line-height: 1.6em;
+}
+
+h1, h2 {
+    color: #007e7e;
+}
+h1 {
+    font-size: 150%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+#guarantee {
+    border: 1px black dashed;
+    background-color: #a7cece;
+    padding: 25px;
+    padding-left: 80px;
+    margin: 30px;
+    margin-right: 250px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    line-height: 1.9em;
+    color: #444444;
+    background-image: url('../img/background.gif');
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+#elixirs {
+    border: #007e7e solid thin;
+    width: 200px;
+    padding: 20px;
+    padding-top: 0px;
+    margin-left: 20px;
+    text-align: center;
+    background-image: url('../img/cocktail.gif');
+    background-position: top left;
+    background-repeat: repeat-x;
+    float: right;
+}
+
+#elixirs h2{
+    color: black;
+}
+
+#elixirs h3 {
+    color: red;
+}
+
+#footer {
+    font-size: 90%;
+    text-align: center;
+    line-height: normal;
+    clear: both;
+}
